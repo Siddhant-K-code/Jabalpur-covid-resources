@@ -2,7 +2,7 @@
 
 This is a general repo not for any specific city but rather any city, fork this repo for other cities
 
-[![Run on repl.it](https://repl.it/badge/github/CryogenicPlanet/covid-bangalore-resources)](https://covid-bangalore-resources.cryogenicplanet.repl.co)
+[![Run on repl.it](https://repl.it/badge/github/SiddhantKcode/Jabalpur-covid-resources)](https://jabalpur-covid-resources.siddhantkcode.repl.co/)
 
 There are lot of collections of valuable data but keeping it an open source place like this makes it much better to search and not duplicate.
 
