@@ -1,3 +1,11 @@
 {
-  "data": []
+  "data": [
+    {
+      "uuid": "6bdba0af-7dc3-49b5-9e3d-254365ead488",
+      "name": "Satish Medical",
+      "contact": "9893793855, 9827674112",
+      "description": "Medicines - Free Home Delivery Available, 98937-93855",
+      "lastVerified": 1619022536676
+    }
+  ]
 }
