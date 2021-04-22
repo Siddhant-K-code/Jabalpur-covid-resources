@@ -1,3 +1,18 @@
 {
-  "data": []
+  "data": [
+    {
+      "uuid": "85b6a329-4593-43ab-b4a7-ada6668b2f10",
+      "name": "Ordnance factory khamaria hospital",
+      "contact": "8332999335",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "c536d34e-cbbd-4526-9404-40ea47ce7aa6",
+      "name": "Sanskardhani hospital",
+      "contact": "9926411330",
+      "description": "",
+      "lastVerified": -1
+    }
+  ]
 }

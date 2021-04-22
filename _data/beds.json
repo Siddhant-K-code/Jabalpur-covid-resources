@@ -20,6 +20,83 @@
       "contact": "9981120590,  8517005023",
       "description": "",
       "lastVerified": -1
+    },
+    {
+      "uuid": "271b9f01-387c-40e9-8d00-ddf1a801dc5d",
+      "name": "Golchha Hospital",
+      "contact": "9691222290, 9669158719",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "a52c0adf-9212-4892-94f8-21d8bfa828e9",
+      "name": "City Hospital",
+      "contact": "9752413300",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "634f9a8d-a7bf-44d8-9e2d-c9a8b533fe01",
+      "name": "Bhandari Hospital",
+      "contact": "7477234268",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "4611037e-6e89-4df0-8432-03cdc3beec58",
+      "name": "Kothari Hospital",
+      "contact": "98272267100, 9425356849",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "07477761-49d0-4db8-89fe-b1a9e327c623",
+      "name": "Global Hospital",
+      "contact": "9340948329",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "55af47c4-155b-46b7-9a45-6ed6e3bbe737",
+      "name": "Marble City Hospital",
+      "contact": "9300110650",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "89feda6d-3d0b-4eef-b0b8-66d76321951f",
+      "name": "New Life Hospital",
+      "contact": "9479450650",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "7970e8c3-13d1-44d3-a376-a56eb5c9415d",
+      "name": "Shalby Hospital",
+      "contact": "9522318022",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "4fd67bab-96a6-4170-85bf-abf32665a095",
+      "name": "Jabalpur hospital",
+      "contact": "9926106230",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "8fc5a1b7-917f-401b-846c-ee0eabe1d588",
+      "name": "Metro Hospital",
+      "contact": "9575300103, 9575300110",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "a1a6ef3c-db55-42af-bcd6-389a8f07a5c4",
+      "name": "Revanta Hospital",
+      "contact": "9329460891, 07613563202",
+      "description": "",
+      "lastVerified": -1
     }
   ]
 }
