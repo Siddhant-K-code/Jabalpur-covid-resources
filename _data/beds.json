@@ -1,3 +1,25 @@
 {
-  "data": []
+  "data": [
+    {
+      "uuid": "ee0bc6eb-50fd-4fe9-a811-a3d7bcacda76",
+      "name": "Radhe Krishna Hospital",
+      "contact": "7612424750",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "ca11affa-65e2-4187-b09e-e6c9dc41ef6b",
+      "name": "Suvidha Hospital",
+      "contact": "7612424750",
+      "description": "Private Hospital",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "393735a0-ee63-4e8a-954f-69ef29fa7e37",
+      "name": "Sukh Sagar Medical College & Hospital",
+      "contact": "9981120590,  8517005023",
+      "description": "",
+      "lastVerified": -1
+    }
+  ]
 }
