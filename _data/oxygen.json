@@ -1,1 +1,18 @@
-{"data":[{"uuid":"247a60b1-4e0a-4cc0-9866-56d9339e68d0","name":"Dinesh Jain","contact":"9425154024","description":"Emergency Oxygen Cylinder Facilitator","lastVerified":-1}]}
+{
+  "data": [
+    {
+      "uuid": "247a60b1-4e0a-4cc0-9866-56d9339e68d0",
+      "name": "Dinesh Jain",
+      "contact": "9425154024",
+      "description": "Emergency Oxygen Cylinder Facilitator",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "5403d35f-c076-44ad-88e0-8282e5533052",
+      "name": "Arogya Oxygen",
+      "contact": "9522555911",
+      "description": "Oxygen Cylinder Facilitator ",
+      "lastVerified": -1
+    }
+  ]
+}
